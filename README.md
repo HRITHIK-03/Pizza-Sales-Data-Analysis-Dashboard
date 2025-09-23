@@ -37,7 +37,7 @@ The dashboard presents multiple **Key Performance Indicators (KPIs)** and trends
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pizza-sales-analysis.git
+   git clone https://github.com/HRITHIK-03/Pizza-Sales-Data-Analysis-Dashboard.git
    ```
 2. Import `pizza_sales.csv` into SQL Server or your preferred database.  
 3. Run queries from **`PIZZA SALES SQL QUERIES.docx`** to perform analysis.  
@@ -51,12 +51,6 @@ The dashboard presents multiple **Key Performance Indicators (KPIs)** and trends
 - Identifying KPIs to **track business performance**  
 - Hands-on experience with **ETL and visualization pipeline**  
 
----
-
-## 📷 Dashboard Preview
-![Dashboard Preview](Pizza%20Dashboard.pdf)
-
----
 
 ## 🤝 Contributing
 Contributions are welcome! If you’d like to add more queries, new KPIs, or improve visualizations:
@@ -74,6 +68,6 @@ Dataset is assumed to be open-source or dummy data.
 
 ## 👤 Author
 **Hrithik Jagwani**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hrithikjagwani)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hrithik-jagwani-03a2b61b8/)  
 - 📧 hrithikjagwani97@gmail.com  
-- 🐙 [GitHub](https://github.com/hrithikjagwani)
+- 🐙 [GitHub](https://github.com/HRITHIK-03)
